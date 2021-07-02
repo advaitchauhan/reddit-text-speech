@@ -1,6 +1,6 @@
 # RedditTTS: Auto-generated interrnet trash
 
-We noticed that there are a number of very successful youtube channels entirely comprosed of robotic narrators reading funny reddit content out loud. W/ some background music and video frames where the content can also be read... Some channel examples:
+There are a number of very successful youtube channels entirely comprosed of robotic narrators reading funny reddit content out loud. W/ some background music and video frames where the content can also be read... Some channel examples:
 * https://www.youtube.com/channel/UCRVewEWU9NEWeKh3cCAif0w (250k subs)
 * https://www.youtube.com/channel/UCSd-3R1xJ0hRT8rQkuIiDew (150k subs)
 
